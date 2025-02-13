@@ -1,6 +1,6 @@
 # Reality Check
 
-A tool designed to diagnose and optimize 3D models for AR compatibility on iOS devices. It analyzes .fbx and .usdz files, provides feedback on model performance, and suggests optimizations based on device specifications.
+A tool designed to diagnose and optimize 3D models for AR compatibility on Apple devices. Reality Check analyzes `.fbx` and `.usdz` files, provides feedback on model performance, and suggests optimizations based on device specifications.
 
 ## Features
 
